@@ -1,0 +1,12 @@
+.\objects\line_planner.o: line_planner.c
+.\objects\line_planner.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\line_planner.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\line_planner.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\line_planner.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\line_planner.o: system.h
+.\objects\line_planner.o: canonical.h
+.\objects\line_planner.o: planner.h
+.\objects\line_planner.o: loader.h
+.\objects\line_planner.o: debugging.h
+.\objects\line_planner.o: tm4c123gh6pm.h
+.\objects\line_planner.o: util.h

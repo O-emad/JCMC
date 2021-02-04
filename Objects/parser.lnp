@@ -1,0 +1,26 @@
+--cpu=Cortex-M4.fp
+".\objects\canonical.o"
+".\objects\gcode_parser.o"
+".\objects\pll.o"
+".\objects\startup_tm4c123.o"
+".\objects\main.o"
+".\objects\systick.o"
+".\objects\planner.o"
+".\objects\line_planner.o"
+".\objects\util.o"
+".\objects\profile_generator.o"
+".\objects\loader.o"
+".\objects\plan_exec.o"
+".\objects\stepper.o"
+".\objects\controller.o"
+".\objects\encoder.o"
+".\objects\hal.o"
+".\objects\arc_planner.o"
+".\objects\debugging.o"
+".\objects\switch.o"
+".\objects\cycle_homing.o"
+".\objects\cycle_probing.o"
+--strict --scatter ".\Objects\parser.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\parser.map" -o .\Objects\parser.axf

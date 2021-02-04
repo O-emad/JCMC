@@ -1,0 +1,9 @@
+.\objects\cycle_homing.o: cycle_homing.c
+.\objects\cycle_homing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cycle_homing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\cycle_homing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\cycle_homing.o: system.h
+.\objects\cycle_homing.o: canonical.h
+.\objects\cycle_homing.o: planner.h
+.\objects\cycle_homing.o: switch.h
+.\objects\cycle_homing.o: util.h

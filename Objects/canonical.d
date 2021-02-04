@@ -1,0 +1,12 @@
+.\objects\canonical.o: canonical.c
+.\objects\canonical.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\canonical.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\canonical.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\canonical.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\canonical.o: system.h
+.\objects\canonical.o: canonical.h
+.\objects\canonical.o: planner.h
+.\objects\canonical.o: stepper.h
+.\objects\canonical.o: tm4c123gh6pm.h
+.\objects\canonical.o: debugging.h
+.\objects\canonical.o: util.h

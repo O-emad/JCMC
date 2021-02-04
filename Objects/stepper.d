@@ -1,0 +1,15 @@
+.\objects\stepper.o: stepper.c
+.\objects\stepper.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stepper.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\stepper.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\stepper.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\stepper.o: tm4c123gh6pm.h
+.\objects\stepper.o: system.h
+.\objects\stepper.o: planner.h
+.\objects\stepper.o: canonical.h
+.\objects\stepper.o: stepper.h
+.\objects\stepper.o: util.h
+.\objects\stepper.o: loader.h
+.\objects\stepper.o: timers.h
+.\objects\stepper.o: encoder.h
+.\objects\stepper.o: debugging.h

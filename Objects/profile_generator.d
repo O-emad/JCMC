@@ -1,0 +1,10 @@
+.\objects\profile_generator.o: profile_generator.c
+.\objects\profile_generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\profile_generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\profile_generator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\profile_generator.o: system.h
+.\objects\profile_generator.o: canonical.h
+.\objects\profile_generator.o: planner.h
+.\objects\profile_generator.o: debugging.h
+.\objects\profile_generator.o: tm4c123gh6pm.h
+.\objects\profile_generator.o: util.h

@@ -1,0 +1,14 @@
+.\objects\controller.o: controller.c
+.\objects\controller.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\controller.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\controller.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\controller.o: tm4c123gh6pm.h
+.\objects\controller.o: systick.h
+.\objects\controller.o: controller.h
+.\objects\controller.o: system.h
+.\objects\controller.o: canonical.h
+.\objects\controller.o: gcode_parser.h
+.\objects\controller.o: planner.h
+.\objects\controller.o: switch.h
+.\objects\controller.o: debugging.h
+.\objects\controller.o: HAL.h

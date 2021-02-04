@@ -1,0 +1,10 @@
+.\objects\loader.o: loader.c
+.\objects\loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\loader.o: system.h
+.\objects\loader.o: planner.h
+.\objects\loader.o: canonical.h
+.\objects\loader.o: loader.h
+.\objects\loader.o: stepper.h
+.\objects\loader.o: tm4c123gh6pm.h
+.\objects\loader.o: timers.h
